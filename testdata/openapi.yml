@@ -1,5 +1,5 @@
 # Source: https://github.com/OneBusAway/sdk-config/blob/main/openapi.yml
-# Fetched: 2026-07-11
+# Fetched: 2026-07-13
 openapi: 3.0.0
 info:
   title: OneBusAway
